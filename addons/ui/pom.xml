@@ -19,6 +19,7 @@
     <module>org.openhab.ui.classicui</module>
     <module>org.openhab.ui.basicui</module>
     <module>org.openhab.ui.paperui</module>
+    <module>io.vaani.ui.vaaniui</module>
     <module>org.openhab.ui.cometvisu</module>
   </modules>
 
