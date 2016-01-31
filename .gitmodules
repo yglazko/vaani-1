@@ -10,3 +10,6 @@
 [submodule "openhab-core"]
 	path = openhab-core
 	url = https://github.com/kdavis-mozilla/openhab-core.git
+[submodule "openhab-distro"]
+	path = openhab-distro
+	url = https://github.com/kdavis-mozilla/openhab-distro.git
