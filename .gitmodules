@@ -1,0 +1,3 @@
+[submodule "openhab2-addons"]
+	path = openhab2-addons
+	url = https://github.com/kdavis-mozilla/openhab2-addons.git
