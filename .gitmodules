@@ -7,3 +7,6 @@
 [submodule "smarthome"]
 	path = smarthome
 	url = https://github.com/kdavis-mozilla/smarthome.git
+[submodule "openhab-core"]
+	path = openhab-core
+	url = https://github.com/kdavis-mozilla/openhab-core.git
