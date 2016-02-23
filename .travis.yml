@@ -1,12 +1,4 @@
----
 language: java
-
-
-
-
 branches:
   only:
   - master
-notifications:
-  email:
-  - kglazko@mozilla.com
